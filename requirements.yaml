@@ -1,0 +1,10 @@
+```txt
+gradio
+pandas
+matplotlib
+seaborn
+fpdf
+librosa
+transformers
+tts
+git+https://github.com/openai/whisper.git
