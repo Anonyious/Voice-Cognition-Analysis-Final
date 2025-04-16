@@ -24,3 +24,6 @@ An interactive voice cognition analysis tool built in Google Colab with Whisper,
 2. Install requirements:
    ```bash
    !pip install -q gradio pandas matplotlib seaborn fpdf librosa transformers tts git+https://github.com/openai/whisper.git
+3. Either run the code base directly on google colab
+4. Or can copy the entire secondary code base python file and run it 
+   
